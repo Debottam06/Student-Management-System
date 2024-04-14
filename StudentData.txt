@@ -1,0 +1,3 @@
+*cd "d:\Resume projects\C++ projects\Student Management system\" ; if ($?) { g++ student_management.cpp -o student_management } ; if ($?) { .\student_management }*cd "d:\Resume projects\C++ projects\Student Management system\" ; if ($?) { g++ student_management.cpp -o student_management } ; if ($?) { .\student_management }*cd "d:\Resume projects\C++ projects\Student Management system\" ; if ($?) { g++ student_management.cpp -o student_management } ; if ($?) { .\student_management }
+35000121043*Debottam Ghosh*Goutam Kumar Ghosh*Bagnan N.D Block
+Tirtha Ghosh*Tirtha Ghosh*Samir Ghosh*Bagnan N.D Block
